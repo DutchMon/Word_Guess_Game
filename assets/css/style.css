@@ -68,3 +68,9 @@ h5, h6 {
     color: green;
     font-weight: bold;
 }
+
+#coolFont {
+    font-family: 'Shrikhand', cursive;
+    font-size: 40px;
+    color: #9A2617;
+}
